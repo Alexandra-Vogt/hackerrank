@@ -1,0 +1,2 @@
+(defn timeConversion [s]
+  (split #""))
